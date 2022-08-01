@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content-"width=device-width,initial-scale=1.0">
+</head>
+<body style="background-color:lightblue">
+<h2 align=center>TCS Online Registration</h2>
+<p  style="font-size:20px">TCS is providing a job opportunities for students.So hurry up! and do your registrations</p>
+<img src="milestone4.png" style="width:50%"  "height:80%" align="right">
+<h3>Details need to be filled by the Student</h3>
+<form>
+<label for="Student Name"> Student Name</label></br>
+<input type="text" id="Student Name" name="registration" value=" "></br></br>
+<label for="sno">Student Roll No</label></br>
+<input type="text" id="sno" name="registration" value=" "></br></br>
+<label for="fname"> Father Name</label></br>
+<input type="text" id="fname" name="registration" value=" "></br></br>
+<label for="fno">Father PH Number</label></br>
+<input type="text" id="fno" name="registration" value=" "></br></br>
+<label for="ano"> Student Aadhar Number</label></br>
+<input type="text" id="ano" name="registration" value=" "></br></br>
+<label for="Student adress"> Student Address</label></br>
+<input type="text" id="Student adress" name="registration" value=" "></br></br>
+<label for="Student Qualification"> Student Qualification</label></br>
+<input type="text" id="Student Qualification" name="registration" value=" "></br></br>
+<label for="courses"> Course Completed</label></br>
+<input type="text" id="courses" name="registration" value=" "></br></br>
+<label for="Student marks"> Xth CGPA</label><br>
+<input type="text" id="Student marks" name="registration" value=" "></br></br>
+<label for="Student Name"> XIIth CGPA</label></br>
+<input type="text" id="Student Name" name="registration" value=" "></br></br>
+<label for="Student Name">Upload Resume</label></br>
+<input type="text" id="Student Name" name="registration" value=" "></br></br>
+<label for="Student Name"> Upload Photo</label></br>
+<input type="text" id="Student Name" name="registration" value=" "></br></br>
+</form>
+</body>
+</html>
